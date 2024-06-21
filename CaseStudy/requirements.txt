@@ -1,0 +1,8 @@
+jax
+jaxlib
+jaxtyping
+seaborn
+matplotlib
+optax
+numpyro
+
