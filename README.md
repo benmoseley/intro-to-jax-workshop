@@ -20,6 +20,7 @@ This workshop consists of two parts:
 1) Introduction to JAX (suitable for complete beginners)
    - [Notebook in Collab](https://colab.research.google.com/drive/1GK5TNw8kQ8ThbEWMn5k5XW9cbQdDa2Rw?usp=sharing)
 3) Advanced Concepts in JAX (solving a more complex scientific problem with JAX)
+   - See [CaseStudy](./CaseStudy) folder
 
 Held at ETH Zurich, 25 June 2024
 
