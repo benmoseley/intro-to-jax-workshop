@@ -1,7 +1,7 @@
 # Introduction to JAX Workshop
 
 <p align="center">
-    <img src="what-is-jax.png" alt="JAX = accelerated array computation + program transformation" width=50%>
+    <img src="what-is-jax.png" alt="JAX = accelerated array computation + program transformation" width=65%>
 </p>
 
 Heard of [JAX](https://jax.readthedocs.io/en/latest/index.html) but not sure what the fuss is about? 
