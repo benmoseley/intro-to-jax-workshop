@@ -20,7 +20,7 @@ This workshop consists of two parts:
 1) Introduction to JAX (suitable for complete beginners)
    - [Student notebook in Collab](https://colab.research.google.com/drive/1GK5TNw8kQ8ThbEWMn5k5XW9cbQdDa2Rw?usp=sharing) (also provided in this repo)
    - [Slides](https://benmoseley.blog/uploads/slides/24_06_Introduction_to_JAX_Workshop.pdf)
-   - [Recording](https://ethz.zoom.us/rec/share/gzS5bS8Shlbvody1gCeufEXdC7OwBnKsEzDJ8eLt6l5pbQGNLth1TwFgoCGwCJZ2.wwRkdxFyTGQ4KpcR?startTime=1719316676000)
+   - [Recording](https://ethz.zoom.us/rec/share/abYEhXp14QKmXFGS5O_7hAPBMIwguwZ2zXLKvCLqhxVTB0qIhdCPnt2y4UYLRUuK.XmoanYs0XOOj3wkM)
 3) Advanced Concepts in JAX (solving a more complex scientific problem with JAX)
    - See [CaseStudy](./CaseStudy) folder.
    - [Notebook with programming exercises in Collab](https://colab.research.google.com/drive/1iseBXw9rlMEeRHns7dLHtakTe0wJq9OS).
