@@ -16,7 +16,7 @@ The goal of this workshop is to:
 3) Help build a community of JAX users at ETH
 
 # Workshop Overview
-[View workshop recording here](https://ethz.zoom.us/rec/share/abYEhXp14QKmXFGS5O_7hAPBMIwguwZ2zXLKvCLqhxVTB0qIhdCPnt2y4UYLRUuK.XmoanYs0XOOj3wkM)
+[View workshop recording here](https://imperialcollegelondon.box.com/s/g1fss21k57krs2och7afyd9l0sly3bht)
 
 This workshop consists of two parts:
 1) Introduction to JAX (suitable for complete beginners)
